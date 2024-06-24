@@ -1,7 +1,7 @@
 # Padrões de Projeto de Software com Java - Criacionais (Creational)
 Os padrões de projeto de criação são padrões que abstraem o processo  de instanciação de objetos. Eles ajudam a tornar um sistema independente de como seus objetos são representados, criados e compostos. Geralmente, atingem este objetivo delegando tarefas para outros objetos.
 
-Esses padrões dão muita flexibilidade ao sistema, porque encapsulam o conhecimento sobre quais classes concretas são usadas. Além disso, ocultam o modo como as instâncias são ciadas e compostas. O foco é eliminar conhecimento do cliente sobre o ***QUE***, ***COMO*** e ***QUANDO*** está sendo criado e ***QUEM** faz parte do processo de criação.
+Esses padrões dão muita flexibilidade ao sistema, porque encapsulam o conhecimento sobre quais classes concretas são usadas. Além disso, ocultam o modo como as instâncias são ciadas e compostas. O foco é eliminar conhecimento do cliente sobre o ***QUE***, ***COMO*** e ***QUANDO*** está sendo criado e **QUEM** faz parte do processo de criação.
 
 ## Padrões e intenções
 Os padrões de projeto de criação originais da GoF são:
